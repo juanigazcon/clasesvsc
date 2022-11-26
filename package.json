@@ -1,0 +1,15 @@
+{
+  "name": "clases-vsc",
+  "version": "1.0.0",
+  "main": "2-Ppios básicos de JS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Coder",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
